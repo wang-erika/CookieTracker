@@ -1,4 +1,3 @@
-# Quantcast Coding Assignment
 Source: Cookies.java 
 
 JUnit Test: CookieTest.java
